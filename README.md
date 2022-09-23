@@ -28,7 +28,7 @@ In this one, the vertices are moved in the same direction.
 
 Link: https://github.com/Felipinski/ShaderSlide/blob/main/Assets/Project/Shaders/VertexDisplacement_Vibrate.shader
 
-(This techniques can also be used with the particle system to animate meshes)
+(These techniques can also be used with the particle system to animate meshes)
 
 ![VertexDisplacement](https://user-images.githubusercontent.com/59582811/191853615-210dc575-dc72-42e8-8f44-27187724e805.gif)
 
