@@ -62,6 +62,7 @@ Link: https://github.com/Felipinski/ShaderSlide/blob/main/Assets/Project/Shaders
 ## Texture scroll
 
 This technique changes the object UV to move/distort the textured mapped on it. It can be used to create water, lava, scrolling dissolves, etc.
+To make this effect work, the texture you're using must be set as "Repeat".
 
 Link: https://github.com/Felipinski/ShaderSlide/blob/main/Assets/Project/Shaders/UVDisplacement.shader
 
