@@ -11,7 +11,9 @@ You can combine this techniques to create effects or support features you need.
 
 ## Vertex displacement
 
-In the vertex shader, we can change object's vertices position to create some different effects. In this project I've implemented 3 methods.
+In the vertex shader, we can change object's vertices position to create some different effects. As the vertices are manipulated in the GPU, this changes DOESN'T affect the collisions.
+
+In this project I've implemented 3 methods:
 
 ### Vertex displacement with map
 This approach let you map a texture into a object in the vertex shader, then you can change each vertex based on the texture color mapped into them. You can also scroll the texture to animate this displacement.
